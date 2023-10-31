@@ -29,8 +29,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-![image](https://github.com/MarcellePalermo/rate-the-heroes-deploy/assets/111618784/9203dd9c-d4ce-4ce6-81c7-dc03f13cc68d)
-
 ### `npm run eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
